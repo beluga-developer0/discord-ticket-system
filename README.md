@@ -28,7 +28,7 @@ pip install discord.py
 ### 2. Запуск скрипта
 Запустите файл бота через консоль Windows:
 ```bash
-python "deepseek_python_20260608_9efe6e.py"
+python "discord-ticket-system.py"
 ```
 При первом старте бот интерактивно попросит ввести токен вашего Discord-приложения в консоль и сгенерирует файлы конфигурации `ticket_config.json` и `ticket_creators.json`.
 
